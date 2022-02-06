@@ -1,0 +1,3 @@
+AccountId,PlayerNr,Country,DateOfBirth,Source,Selfban_start,Selfban_end,First_genre,Registration_date,Currency
+001,101,PL,,Facebook,1644189469,1644189469,arcade,1644189469,PLN
+002,102,UK,,direct,1644129469,1644219469,arcade,1640189469,GBP
